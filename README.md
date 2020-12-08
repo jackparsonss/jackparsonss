@@ -38,4 +38,4 @@
 <!-- [website]: https:// -->
 
 [instagram]: https://www.instagram.com/jack.par/
-[linkedin]: https://www.linkedin.com/in/jack-parsons
+[linkedin]: https://www.linkedin.com/in/jack-parsons-9508b21ba/
