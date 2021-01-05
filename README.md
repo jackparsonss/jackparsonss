@@ -5,7 +5,7 @@
 ## I'm a First Year University Student
 
 - 🔭 I’m currently learning everything  
-- 👯 I’m looking to collaborate with others and contribute on Open Source Projects
+- 👯 I’m looking to collaborate with others and contribute to Open Source Projects
 
 
 ### Connect with me:
