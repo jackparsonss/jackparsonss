@@ -4,7 +4,7 @@
 
 ## I'm a First Year University Student
 
-- 🔭 I’m currently learning everything  
+- 🔭 I’m currently learning as much as I can about different technologies and code and I am open to exploring many more
 - 👯 I’m looking to collaborate with others and contribute to Open Source Projects
 
 
