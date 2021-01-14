@@ -11,7 +11,7 @@
 ### <div align="center"> Connect with me!: </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jack-parsons-9508b21ba/">
+  <a href="https://www.linkedin.com/in/jack-parsonss/">
   <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" />
   </a>
 
