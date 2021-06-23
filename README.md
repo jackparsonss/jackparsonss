@@ -40,9 +40,9 @@
   <img width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-
+<!-- 
 <br />
 <br />
 <p align="center">
-<img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jackparsonss&show_icons=true&hide_border=true" />
+<img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jackparsonss&show_icons=true&hide_border=true" /> -->
 </p>
