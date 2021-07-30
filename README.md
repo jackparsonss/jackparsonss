@@ -7,6 +7,7 @@
 - 📚 Currently enrolled at the University of Alberta, studying Computer Science
 - 💥 My hobbies include working out, photography, and UI/UX design
 
+---
 
 ### <div align="center"> Connect with me! </div>
 
@@ -24,7 +25,7 @@
   </a>
 </p>
 
-<br />
+---
 
 ### <div align="center"> Languages and Frameworks: </div>
 
@@ -44,11 +45,9 @@
   <a href="https://nodejs.org/en/">
     <img width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   </a>
-  
-  
 </p>
 
-<br />
+---
 
 ### <div align="center"> Tools: </div>
 <p align="center">
@@ -76,3 +75,5 @@
 <p align="center">
 <img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jackparsonss&show_icons=true&hide_border=true" /> -->
 </p>
+
+---
