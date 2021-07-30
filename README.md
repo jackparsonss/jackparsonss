@@ -5,7 +5,7 @@
 - 🔭 Currently learning as much as I can about different technologies and code and am open to exploring many more
 - 👯 Looking to collaborate with others and contribute to Open Source Projects
 - 📚 Currently enrolled at the University of Alberta, studying Computer Science
-- 💥 My favourite activites include working out, watching netflix and finding random videos to watch on youtube
+- 💥 My hobbies include working out, photography, and UI/UX design
 
 
 ### <div align="center"> Connect with me!: </div>
@@ -17,6 +17,10 @@
 
   <a href="https://www.instagram.com/jack.par/">
   <img align="center" alt="jack-par | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
+  </a>
+  
+  <a href="https://twitter.com/jackparsonss">
+  <img align="center" alt="jack-par | Twitter" width="70px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
   </a>
 </p>
 
