@@ -76,12 +76,11 @@
   <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
  </p>
  
-
-<!-- 
-<br />
-<br />
-<p align="center">
-<img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jackparsonss&show_icons=true&hide_border=true" /> -->
 </p>
 
 ---
+
+<p align="center">
+<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackparsonss)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackparsonss"
+</p>
