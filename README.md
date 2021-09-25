@@ -1,6 +1,6 @@
 ### Hi there, my name is Jack Parsons 👋
 
-## A Freshman Student at the Univesity of Alberta 
+## A Second Year Student at the Univesity of Alberta 
 
 - 🔭 Currently learning fullstack web development with react.js and node.js (express), as well as learning iOS development using swift and swiftUI
 - 👯 Looking to collaborate with others and contribute to Open Source Projects
