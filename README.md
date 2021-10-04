@@ -2,7 +2,7 @@
 
 ## A Second Year Student at the Univesity of Alberta 
 
-- 🔭 Currently learning fullstack web development with react.js and node.js (express), as well as learning iOS development using swift and swiftUI
+- 🔭 Currently learning fullstack web development with react.js, node.js (express), and django, as well as learning AI/ML
 - 👯 Looking to collaborate with others and contribute to Open Source Projects
 - 📚 Currently enrolled at the University of Alberta, studying Computer Science
 - 💥 My hobbies include working out, photography, and UI/UX design
@@ -12,6 +12,10 @@
 ### <div align="center"> Connect with me! </div>
 
 <p align="center">
+  <a href="https://jackparsonss.me">
+  <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://user-images.githubusercontent.com/62918090/135795467-db617837-eb4e-4091-a26b-ecdb722fd907.png" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/jack-parsonss/">
   <img align="center" alt="jack-par | LinkedIn" width="70px" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" />
   </a>
