@@ -46,6 +46,10 @@
     <img width="46px" src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png" />
   </a>
   
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img width="46px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+  </a>
+  
   <a href="https://unity.com/">
     <img width="46px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />
   </a>
