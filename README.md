@@ -88,10 +88,10 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center"> -->
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackparsonss)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackparsonss"
-</p>
+<!--   <img align="center" alt="jack's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jackparsonss" -->
+<!-- </p> -->
   
  <p align="center">
 <!--   ![Metrics](https://metrics.lecoq.io/jackparsonss?template=classic&config.timezone=America%2FEdmonton) -->
