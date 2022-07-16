@@ -2,10 +2,10 @@
 
 ## A Second Year Student at the Univesity of Alberta 
 
-- 🔭 Currently learning fullstack web development with react.js, node.js (express), and django, as well as learning AI/ML
+- 🔭 Currently learning fullstack web development with react.js, node.js (express), typescript, as well as learning AI/ML
 - 👯 Looking to collaborate with others and contribute to Open Source Projects
 - 📚 Currently enrolled at the University of Alberta, studying Computer Science
-- 💥 My hobbies include working out and photography
+- 💥 My hobbies include strength training and photography
 
 ---
 
