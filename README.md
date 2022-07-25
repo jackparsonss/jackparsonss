@@ -42,6 +42,10 @@
     <img width="46px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
   </a>
   
+   <a href="https://www.typescriptlang.org/">
+    <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
+  </a>
+  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img width="46px" src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png" />
   </a>
