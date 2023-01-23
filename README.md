@@ -94,7 +94,7 @@
 ---
 
 ### <div align="center"> Tools: </div>
-<p align="center">
+<div align="center">
   <a href="https://code.visualstudio.com/">
     <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
   </a>
@@ -110,5 +110,6 @@
   </a>
   
   <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
- </p>
-</p>
+  <img width="46px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/LaTeX_logo.png" />
+</div>
+
