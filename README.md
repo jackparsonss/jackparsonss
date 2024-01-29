@@ -2,7 +2,7 @@
 
 ## A Fourth Year Student at the University of Alberta 
 
-- 🔭 Currently learning compilers, autonomous driving, and deep learning
+- 🔭 Currently learning compilers, autonomous driving, and distributed systems
 - 👯 Looking to collaborate with others and contribute to Open Source Projects
 - 📚 Enrolled at the University of Alberta, studying Computer Science
 - 💥 My hobbies include strength training and photography
